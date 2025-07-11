@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ansh Pal Singh 👋</h1>
 
-<!--
-**Ansh1232/Ansh1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Web Developer | 🌐 MERN Stack Enthusiast | 🚀 Always Learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🧑‍🎓 Final year BCA student at GLA University, Mathura  
+- 💻 Passionate about building responsive web applications using the **MERN stack**  
+- 🔐 Familiar with **JWT authentication**, **REST APIs**, and **MongoDB**  
+- 🎯 Currently learning advanced JavaScript and React-based UI practices  
+- 💡 Believer in *learning by doing*, and always open to collaboration!
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, MySQL  
+- **Tools & Others**: Git, GitHub, JWT, Postman  
+
+---
+
+## 📌 Projects
+
+### 📊 [Expense Tracker App](https://github.com/Ansh1232/ExpenseTracker) *(MERN stack)*
+> A full-stack app to track income and expenses with JWT login and data export.
+
+### 🌐 [ProjectNexus](https://github.com/Ansh1232/NEXUS)
+> A platform for students to showcase and explore coding projects.
+
+### 🧠 [Emotion Reflection Tool](https://github.com/Ansh1232/emotion-reflection-tool)
+> CSS + JavaScript-based project exploring how emotions reflect in UI states.
+
+---
+
+## 📫 Connect With Me
+
+- 📩 Email: anshpals73@mail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/ansh1909)  
+- 🌐 [Portfolio (Coming soon...)](#)
+
+---
+
+> ⚡ “Consistency is more important than perfection — one step at a time.”
+

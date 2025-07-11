@@ -41,7 +41,7 @@
 ## 📫 Connect With Me
 
 - 📩 Email: anshpals73@mail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/ansh1909)  
+- 🔗 [LinkedIn](www.linkedin.com/in/anshsingh1909)  
 - 🌐 [Portfolio (Coming soon...)](#)
 
 ---

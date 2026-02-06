@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧑‍🎓 Final year BCA student at GLA University, Mathura  
+- MCA student at GLA University, Mathura  
 - 💻 Passionate about building responsive web applications using the **MERN stack**  
 - 🔐 Familiar with **JWT authentication**, **REST APIs**, and **MongoDB**  
 - 🎯 Currently learning advanced JavaScript and React-based UI practices  

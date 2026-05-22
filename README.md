@@ -36,6 +36,8 @@
 ### 🧠 [Emotion Reflection Tool](https://github.com/Ansh1232/emotion-reflection-tool)
 > CSS + JavaScript-based project exploring how emotions reflect in UI states.
 
+### 🧠 [ClauseIQ]
+> An Open-Source AI-powered Indian legal document assistant built on a custom RAG (Retrieval -Augmented Generation) pipeline using local LLMs.
 ---
 
 ## 📫 Connect With Me

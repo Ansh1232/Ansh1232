@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Ansh Pal Singh 👋</h1>
+<h1 align="center">Hi, I'm Ansh Pal Singh </h1>
 
 <p align="center">
-  💻 Web Developer | 🌐 MERN Stack Enthusiast | 🚀 Always Learning
+  💻 Web Developer | 🌐 MERN Stack | Always Learning
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - MCA student at GLA University, Mathura  
 - 💻 Passionate about building responsive web applications using the **MERN stack**  
